@@ -7,9 +7,9 @@
 <h3 align="center"> <a href="https://github.com/Sahampath">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahampath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> </h3>
     
-<h4 align="center"> <img src="https://img.shields.io/github/downloads/Sahampath/Discord-Channel-Mirror/total?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/github/stars/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/github/forks/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor"> </h4>
+<h4 align="center"> <img src="https://img.shields.io/github/downloads/Sahampath/IP_Generator/total?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/stars/Sahampath/IP_Generator?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/forks/Sahampath/IP_Generator?style=for-the-badge&logo=appveyor"> </h4>
 
 ## You can Generate Random IP Address using this script.
 
