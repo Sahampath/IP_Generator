@@ -1,7 +1,7 @@
 <h1 align="center"> IP_Generator </h1>
 
 <h2 align="center">
-<img src="https://media.giphy.com/media/QBCi8RsQpAlziK1hRa/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/QBCi8RsQpAlziK1hRa/giphy.gif" width="200">
 </h2>
 
 <h3 align="center"> <a href="https://github.com/Sahampath">
