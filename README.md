@@ -11,9 +11,8 @@
 <img src="https://img.shields.io/github/stars/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor">
 <img src="https://img.shields.io/github/forks/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor"> </h4>
 
-<h5 align="center"> You can Generate Random IP Address using this script. </h5>
+##You can Generate Random IP Address using this script.
 
-##
 ### 👨‍💻 Programming languages
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 ##
