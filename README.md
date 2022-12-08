@@ -3,7 +3,7 @@
 
 
 # IP_Generator
-## You can generate IP Random Address using this script.
+## You can Generate Random IP Address using this script.
 
 ### 👨‍💻 Programming languages
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
