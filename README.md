@@ -17,7 +17,6 @@ You can generate IP Random Address using this script.
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Sahampath/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahampath's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sahampath&theme=monokai-metallian&hide_border=true"/>
