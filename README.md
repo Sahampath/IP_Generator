@@ -1,9 +1,17 @@
-<a href="https://github.com/Sahampath">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahampath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-
-
 # IP_Generator
-## You can Generate Random IP Address using this script.
+
+<h2 align="center">
+<img src="https://media.giphy.com/media/SlKBbQNNZNfcPRWYW7/giphy.gif" width="100">
+</h2>
+
+<h3 align="center"> <a href="https://github.com/Sahampath">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahampath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> </h3>
+    
+<h4 align="center"> <img src="https://img.shields.io/github/downloads/Sahampath/Discord-Channel-Mirror/total?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/stars/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/forks/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor"> </h4>
+
+<h5 align="center"> You can Generate Random IP Address using this script. </h5>
 
 ### 👨‍💻 Programming languages
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
