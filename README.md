@@ -1,3 +1,5 @@
+**Repository Views** ![Views](https://profile-counter.glitch.me/IP_Generator/count.svg)
+
 <h1 align="center"> IP_Generator </h1>
 
 <h2 align="center">
