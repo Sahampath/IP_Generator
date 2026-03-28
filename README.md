@@ -1,5 +1,3 @@
-**Repository Views** ![Views](https://profile-counter.glitch.me/Sahampath/count.svg)
-
 <h1 align="center"> IP_Generator </h1>
 
 <h2 align="center">
@@ -24,3 +22,8 @@
 ### 💻 Software and tools
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
+#
+<h2 align="center">Visitors Counts 👀</h2>
+<p align="center">
+<a href="https://github.com/Sahampath/IP_Generator"><img alt="Cute Count" src="https://count.getloli.com/get/@Sahampath?theme=rule34" /></a>
+</p>
